@@ -35,5 +35,5 @@ Access the App: Open a web browser and navigate to http://localhost:8501 to acce
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## `Acknowledgements` 
-Built using the Streamlit framework (https://streamlit.io/) 
-Uses the Google Generative AI API for content generation (https://www.google.com/)
+1. Built using the Streamlit framework (https://streamlit.io/) 
+2. Uses the Google Generative AI API for content generation (https://www.google.com/)
