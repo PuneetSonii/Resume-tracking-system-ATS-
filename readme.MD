@@ -1,4 +1,4 @@
-# `Resume Tracking App 📋` 
+# `Resume Tracking App 📋 - Gemini LLM` 
 The Resume Tracking App is a web application developed using Streamlit, designed to streamline the process of reviewing resumes against job descriptions and tracking candidates' qualifications. This app allows users to upload resumes in PDF format, input job descriptions, and receive automated feedback on resume suitability and percentage match with the job requirements.
 
 ## `Features`
@@ -36,4 +36,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## `Acknowledgements` 
 1. Built using the Streamlit framework (https://streamlit.io/) 
-2. Uses the Google Generative AI API for content generation (https://www.google.com/)
+2.Uses the Google Generative AI API for content generation (https://www.google.com/)
