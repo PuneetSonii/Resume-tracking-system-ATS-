@@ -9,17 +9,31 @@ The Resume Tracking App is a web application developed using Streamlit, designed
 7. Easy-to-Use Interface: The app features a user-friendly interface with intuitive controls for seamless navigation and interaction. 
 8. Scalable and Reliable: Built on the Streamlit framework, the app is scalable and reliable, capable of handling multiple user interactions simultaneously. Setup Instructions Clone the Repository:
 
-## `gitbash Copy code` git clone https://github.com/PuneetSonii/Resume-tracking-system-ATS-.git 
+## `gitbash Copy code` 
+    git clone https://github.com/PuneetSonii/Resume-tracking-system-ATS-.git 
+
     cd resume-tracking-app 
 
 ## `Install Dependencies:`
 
-## `Copy code`= pip install -r requirements.txt Run the App:
+## `Copy code`
+    pip install -r requirements.txt Run the App:
 
-## `arduino Copy code streamlit` run app.py Access the App: Open a web browser and navigate to http://localhost:8501 to access the app.
+## `arduino Copy code` 
+    streamlit run app.py 
 
-Usage Upload Resume: Click the "Upload Resume" button to upload a resume in PDF format. Input Job Description: Enter the job description or requirements into the text area provided. Review Feedback: Receive automated feedback on resume suitability and percentage match with the job requirements. Make Decisions: Use the feedback provided to make informed decisions regarding candidate qualifications and suitability for the job. Contributing Contributions are welcome! If you'd like to contribute to the development of the Resume Tracking App, please fork the repository, make your changes, and submit a pull request.
+Access the App: Open a web browser and navigate to http://localhost:8501 to access the app.
 
-## `License` This project is licensed under the MIT License - see the LICENSE file for details.
+## `Steps:`
+1. Usage Upload Resume: Click the "Upload Resume" button to upload a resume in PDF format. 
+2. Input Job Description: Enter the job description or requirements into the text area provided. 
+3. Review Feedback: Receive automated feedback on resume suitability and percentage match with the job requirements. 
+4. Make Decisions: Use the feedback provided to make informed decisions regarding candidate qualifications and suitability for the job. 
+5. Contributing Contributions are welcome! If you'd like to contribute to the development of the Resume Tracking App, please fork the repository, make your changes, and submit a pull request.
 
-## `Acknowledgements` Built using the Streamlit framework (https://streamlit.io/) Uses the Google Generative AI API for content generation (https://www.google.com/)
+## `License` 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## `Acknowledgements` 
+Built using the Streamlit framework (https://streamlit.io/) 
+Uses the Google Generative AI API for content generation (https://www.google.com/)
